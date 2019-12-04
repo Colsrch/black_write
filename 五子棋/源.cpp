@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <graphics.h>
 #include <conio.h>
-#include <Windows.h>
 
 
 // ¿‡∂®“Â
